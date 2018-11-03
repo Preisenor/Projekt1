@@ -1,0 +1,11 @@
+Package: PoTwo
+Type: Package
+Title: Square of a number
+Version: 0.1.0
+Date: 2018-11-02
+Author: Louis Preisig [aut,cre]
+Maintainer: Louis Preisig <louis.preisig@uzh.ch>
+Description: This package provides a function that calculates the square of the given input integer. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
